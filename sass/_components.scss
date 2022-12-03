@@ -53,11 +53,6 @@
 }
 
 /*  Media queries   */
-@media screen and (max-width: $desktop-size) {
-    .qr-card {
-        margin-top: 100px;
-    }
-  }
 
 @media screen and (max-width: $mobile-size) {
     .qr-card {
